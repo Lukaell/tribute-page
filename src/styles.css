@@ -1,0 +1,64 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+#main {
+    max-width:800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para o título */
+#title {
+    text-align: center;
+    color: #333;
+}
+
+/* Estilos para a imagem */
+#img-div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+img {
+    display:block;
+}
+#image {
+    
+    width: 100%;
+    max-width:100%;
+    
+}
+
+#img-caption {
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* Estilos para o texto */
+p,
+h2,
+h3,
+li {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Estilos para o link */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
